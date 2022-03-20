@@ -1,19 +1,24 @@
-# Vianify
-  
 ## Profile
 
-<b><i>
-* Hi Everyone My Name Vian, My Hobbies Program A Code and Creating Open Source.
-* If you read this, please follow me.
-  </i></b>
-
+ * __**Hi Everyone My Name Vian, My Hobbies Program A Code and Creating Open Source.**__
+ * __**I Program A Code And Creating Open Source**__
+ 
 ## Project
 
-<b>
- * Exalib
-  
-  ```
-  npm i exalib
-  ```
-  
-  </b>
+ * **Exalib**
+
+| [x] | **Windows** |
+| --- | ----------- |
+| [x] | **MacOs**   |
+| --- | ----------- |
+| [x] | **Linux**   |
+
+**Running :**
+
+```
+https://github.com/vianify/exalib.git
+```
+
+OR
+
+[Repostories](https://github.com/vianify/exalib.git)
